@@ -61,7 +61,7 @@ Below is a detailed comparison of fully managed in-memory cache cloud services, 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated collection of open-source in-memory caches, distributed data grids, and Kubernetes operators, sorted descending by GitHub Stars_Count.
+Curated collection of open-source in-memory caches, distributed data grids, and Kubernetes operators, sorted descending by GitHub_Stars_Count.
 
 | Project | GitHub_Stars | License | Primary Language | Description & Key Strengths |
 | :--- | :---: | :---: | :---: | :--- |
