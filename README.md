@@ -26,7 +26,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architectural Blueprints & Ecosystem Tools](#️-architectural-blueprints--ecosystem-tools)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [📈 Star History](#--star-history)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -112,9 +113,22 @@ Contributions are welcome and highly appreciated! 💖
 
 ---
 
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this project valuable for your cloud architecture, team, or research, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new managed caching tools, updates, or benchmarks.
+- 📢 **Share with colleagues** across your engineering and DevOps networks.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and maintenance, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Managed-Cloud-In-Memory-Cache&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Managed-Cloud-In-Memory-Cache&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Managed-Cloud-In-Memory-Cache&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Managed-Cloud-In-Memory-Cache&type=date&legend=top-left)
 
 ---
 
