@@ -61,9 +61,9 @@ Below is a detailed comparison of fully managed in-memory cache cloud services, 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated collection of open-source in-memory caches, distributed data grids, and Kubernetes operators, sorted descending by GitHub star count.
+Curated collection of open-source in-memory caches, distributed data grids, and Kubernetes operators, sorted descending by GitHub Stars_Count.
 
-| Project | Stars | License | Primary Language | Description & Key Strengths |
+| Project | GitHub_Stars | License | Primary Language | Description & Key Strengths |
 | :--- | :---: | :---: | :---: | :--- |
 | **[Redis](https://github.com/redis/redis)** | [![Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) | RSALv2 / SSPL | C | The foundational in-memory key-value data structure store used globally for caching, streaming, and real-time analytics. |
 | **[Dragonfly](https://github.com/dragonflydb/dragonfly)** | [![Stars](https://img.shields.io/github/stars/dragonflydb/dragonfly?style=social&color=white)](https://github.com/dragonflydb/dragonfly/stargazers) | BSL-1.1 | C++ | Next-generation multithreaded in-memory store delivering 25x higher throughput and sub-millisecond latencies under high concurrency. |
